@@ -1,7 +1,7 @@
 {
-  "name": "my-rest-api",
+  "name": "Shendy-rest-api",
   "version": "1.0.0",
-  "description": "Rest api created by Zeeoneofc",
+  "description": "Rest api created by Shendyofc",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -19,7 +19,7 @@
     "website",
     "apikey"
   ],
-  "author": "Zeeoneofc",
+  "author": "Shendyofc",
   "license": "ISC",
   "dependencies": {
     "@bochilteam/scraper": "^3.0.0",
